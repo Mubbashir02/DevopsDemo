@@ -1,7 +1,7 @@
 from main import Add
 
 def check():
-    assert Add(2,4) == 6
+    assert Add(2,4) == 9
     print('ok')
 
 
